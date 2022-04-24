@@ -1,0 +1,170 @@
+
+
+body {
+    font-family: auto;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  
+  
+  .footer {
+  
+    padding: 20px;
+    text-align: center;
+    background: #b8b8b8;
+    margin-top: 120px;
+  }
+  .footerm {
+  
+    position: absolute;
+      padding: 20px;
+      text-align: center;
+      background: #b2b1b1;
+      top: 1200px;
+      width: 100%;
+  }
+  
+  
+  
+  
+  
+  body {
+      background-color: #87ffff;
+      position: relative;
+  }
+  div#saa {
+      background-color: #a8cbcc;
+      margin-right: 30%;
+      padding-top: 80px;
+      padding-bottom: 80px;
+      margin-left: 30%;    /* padding-left: 40px; */
+      border-radius: 100px;
+      text-align: center;
+  }
+  div#saa a:link, div#saa a:visited {
+      background-color: white;
+      color: black;
+      border: 2px solid #2bb22b;
+      padding: 10px 20px;
+      border-radius: 10px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+  
+  div#saa a:hover,div#saa a:active {
+      background-color: #af566f;
+      color: white;
+  }
+  div#sad {
+      position: absolute;
+    width:700px;
+      background-color: #723443;
+      margin-left:30%;
+      top:800px !important;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      margin-right: 20%;
+      /* padding-left: 40px; */
+      border-radius: 100px;
+      text-align: center;
+  }
+  div#sad a:link, div#sad a:visited {
+      background-color: white;
+      color: black;
+      border: 2px solid #4c644c;
+      padding: 10px 20px;
+      text-align: center;
+      border-radius: 10px;
+      text-decoration: none;
+      display: inline-block;
+  }
+  
+  div#sad a:hover,div#sad a:active {
+      background-color: #5a474c;
+      color: white;
+  }
+  a#logout:link, a#logout:visited,a#back:link, a#back:visited {
+      background-color: white;
+      color: white;
+      background: black;border: 2px solid #4c644c;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+  a#logout{
+      position: absolute;
+      left: 30px;
+      top:10px;}
+  a#back{
+      position: absolute;
+      right: 10px;
+      top:10px
+  }
+  a#logout:hover {
+      background-color: #891233;
+      color: white;
+  }
+  div#login {
+      background-color: cadetblue;
+      margin-right: 35%;
+      padding-top: 30px;
+      /* padding-left: 40px; */
+      border-radius: 10px;
+      text-align: center;
+      padding-bottom:20px;
+      margin-left: 35%;
+  }
+  a#loginr:link,a#regl:link,input[type=submit], a#loginr:visited,a#regl:visited {
+      background-color: #bf6666;
+      margin-top: px;
+      color: black;
+      border: 2px solid #24d224;
+      padding: 10px 20px;
+      border-radius: 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+  }
+  #header{
+      padding: 20px;
+      text-align: center;
+      background: #6a5e5e;
+      margin-left: -18px;
+      width: 100%;
+      margin-top: -18px;
+      font-size: 50px;
+  }
+  form#frm ,div#frm {
+      position:absolute;
+      background-color: #134546;
+      margin-right: 25%;
+      top:30%;
+      padding-top: 30px;
+       padding-left: 40px;
+       padding-right: 40px;
+      border-radius: 10px;
+      text-align: center;
+      padding-bottom:20px;
+      margin-left: 45%;
+  
+  }
+  div#frm {
+      
+      top:30%;
+      color: white;
+      
+  
+  }
+  form#regf {
+      background-color: #516565;
+      margin-right: 35%;
+      padding-top: 30px;
+      padding-left: 0px;
+      border-radius: 10px;
+      text-align: center;
+      padding-bottom:20px;
+      margin-left: 35%;
+  }
